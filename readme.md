@@ -34,8 +34,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/souryadip-official/current.ai.git
 ```
 
 ### 2. Install dependencies
